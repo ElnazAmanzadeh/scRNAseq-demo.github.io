@@ -96,7 +96,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2 id="general">General Information</h2>
-<h2 id="general">In this session, two parts of the scRNA-seq analysis using Bioconductor packages will be taught. The aim of this session is to checkout if the lesson is understandable and  the content satisfies the need of learners in both programming and biology aspects.</h2>
+<h1 id="general">In this session, two parts of the scRNA-seq analysis using Bioconductor packages will be taught. The aim of this session is to checkout if the lesson is understandable and  the content satisfies the need of learners in both programming and biology aspects.</h1>
 
 {% comment %}
 INTRODUCTION
