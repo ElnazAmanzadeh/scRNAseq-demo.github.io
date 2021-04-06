@@ -39,8 +39,8 @@ For a workshop please delete the following block until the next dashed-line
 
 
 <div class="alert alert-danger">
-This is the demo for "scRNA-Seq-analysis" lesson which being developed using Bioconductor packages in R environment and one can have access here
-<a href="https://github.com/ElnazAmanzadeh/scrna-seq-analysis">. Please feel free to take a look at the lesson repository. In case you want too add or edit something please make a pull request.
+This is the demo for "scRNA-Seq-analysis" lesson which being developed using Bioconductor packages in R environment and one can have access 
+<a href="https://github.com/ElnazAmanzadeh/scrna-seq-analysis">here</a> . Please feel free to take a look at the lesson repository. In case you want too add or edit something please make a pull request.
 </div>
 
 {% comment %}
