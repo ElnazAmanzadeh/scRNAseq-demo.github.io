@@ -61,10 +61,10 @@ Check DC curriculum
 {% endif %}
 
 {% comment %}
-Check SWC curriculum
+Check DC curriculum
 {% endcomment %}
 
-{% if site.carpentry == "swc" %}
+{% if site.carpentry == "dc" %}
 {% unless site.curriculum == "swc-inflammation" or site.curriculum == "swc-gapminder" %}
 <div class="alert alert-warning">
 You can download all the data files we use in this lesson from <a href="https://scrnaseq-course.cog.sanger.ac.uk/index.html?prefix=data/">here</a>.
