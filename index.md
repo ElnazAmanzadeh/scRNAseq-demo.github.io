@@ -41,7 +41,7 @@ For a workshop please delete the following block until the next dashed-line
 <div class="alert alert-danger">
 This is the demo for "scRNA-Seq-analysis" lesson which being developed using Bioconductor packages in R environment and one can have access 
 <a href="https://github.com/ElnazAmanzadeh/scrna-seq-analysis">here</a>. Please feel free to take a look at the lesson repository. In case you want too add or edit something please make a pull request.
-You can download all the data files we use in this lesson from<a href="https://scrnaseq-course.cog.sanger.ac.uk/index.html?prefix=data/">here</a>.
+You can download all the data files we use in this lesson from <a href="https://scrnaseq-course.cog.sanger.ac.uk/index.html?prefix=data/">here</a>.
 </div>
 
 {% comment %}
@@ -96,6 +96,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2 id="general">General Information</h2>
+<h2 id="general">In this session, two parts of the scRNA-seq analysis using Bioconductor packages will be taught. The aim of this session is to checkout if the lesson is understandable and  the content satisfies the need of learners in both programming and biology aspects.</h2>
 
 {% comment %}
 INTRODUCTION
@@ -110,6 +111,7 @@ the pitch.
 {% elsif site.carpentry == "lc" %}
 {% include lc/intro.html %}
 {% endif %}
+
 
 {% comment %}
 AUDIENCE
