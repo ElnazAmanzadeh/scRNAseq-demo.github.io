@@ -64,7 +64,7 @@ Check DC curriculum
 Check DC curriculum
 {% endcomment %}
 
-{% if site.carpentry == "dc" %}
+{% if site.carpentry == "swc" %}
 {% unless site.curriculum == "swc-inflammation" or site.curriculum == "swc-gapminder" %}
 <div class="alert alert-warning">
 You can download all the data files we use in this lesson from <a href="https://scrnaseq-course.cog.sanger.ac.uk/index.html?prefix=data/">here</a>.
@@ -74,6 +74,7 @@ You can download all the data files we use in this lesson from <a href="https://
 
 {% comment %}
 EVENTBRITE
+
 
 This block includes the Eventbrite registration widget if
 'eventbrite' has been set in the header.  You can delete it if you
