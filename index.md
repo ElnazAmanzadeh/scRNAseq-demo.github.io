@@ -39,13 +39,8 @@ For a workshop please delete the following block until the next dashed-line
 
 
 <div class="alert alert-danger">
-This is the workshop template. Delete these lines and use it to
-<a href="https://carpentries.github.io/workshop-template/customization/index.html">customize</a>
-your own website. If you are running a self-organized workshop or have not put
-in a workshop request yet, please also fill in
-<a href="{{site.amy_site}}/forms/self-organised/">this workshop request form</a>
-to let us know about your workshop and our administrator may contact you if we
-need any extra information.
+This is the demo for "scRNA-Seq-analysis" lesson which being developed using Bioconductor packages in R environment and one can have access here
+<a href="https://github.com/ElnazAmanzadeh/scrna-seq-analysis">. Please feel free to take a look at the lesson repository. In case you want too add or edit something please make a pull request.
 </div>
 
 {% comment %}
