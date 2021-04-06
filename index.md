@@ -55,7 +55,7 @@ Check DC curriculum
 {% if site.carpentry == "dc" %}
 {% unless site.curriculum == "dc-ecology" or site.curriculum == "dc-genomics" or site.curriculum == "dc-socsci" or site.curriculum == "dc-geospatial" %}
 <div class="alert alert-warning">
-You can download all the data files we use in this lesson from <a href="https://scrnaseq-course.cog.sanger.ac.uk/index.html?prefix=data/">here</a>.
+
 </div>
 {% endunless %}
 {% endif %}
@@ -67,7 +67,7 @@ Check SWC curriculum
 {% if site.carpentry == "swc" %}
 {% unless site.curriculum == "swc-inflammation" or site.curriculum == "swc-gapminder" %}
 <div class="alert alert-warning">
-It looks like you are setting up a website for a Software Carpentry curriculum but you haven't specified the curriculum type in the <code>_config.yml</code> file (current value in <code>_config.yml</code>: "<strong>{{ site.curriculum }}</strong>", possible values: <code>swc-inflammation</code>, or <code>swc-gapminder</code>). After editing this file, you need to run <code>make serve</code> again to see the changes reflected.
+You can download all the data files we use in this lesson from <a href="https://scrnaseq-course.cog.sanger.ac.uk/index.html?prefix=data/">here</a>.
 </div>
 {% endunless %}
 {% endif %}
